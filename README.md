@@ -9,3 +9,14 @@ There are 8 ways to get from Paris Orly Airport (ORY) to The Louvre by tram, tra
 3. The fastest way to get from Paris Orly Airport (ORY) to The Louvre is to taxi. Taking this option will cost $30 - $40 and takes 18 min.
 4. There is an overnight bus departing from Aéroport Orly 4 and arriving at Châtelet. This bus operates every day. The journey takes approximately 1h 1m.
 5. There are services departing from Orly 4 and arriving at Châtelet les Halles via Antony. The journey, including transfers, takes approximately 59 min.
+## Other tourist locations around the museum
+* Pyramide du Louvre
+* The Tour Guy
+* Auditorium du Louvre
+* Fronton la Terre et l’Eau du Pavillon Colbert du Musée du Louvre
+* Arc de Triomphe du Carrousel
+* Seine River
+* Carrousel du Louvre
+* Right Bank (Rive Droite)
+* Place du Carrousel
+* Statue Equestre de Louis XIV
