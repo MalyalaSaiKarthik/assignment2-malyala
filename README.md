@@ -20,4 +20,4 @@ There are 8 ways to get from Paris Orly Airport (ORY) to The Louvre by tram, tra
 * Right Bank (Rive Droite)
 * Place du Carrousel
 * Statue Equestre de Louis XIV
-[AboutMe]<https://github.com/MalyalaSaiKarthik/assignment2-malyala/blob/main/AboutMe.md>
+[AboutMe](https://github.com/MalyalaSaiKarthik/assignment2-malyala/blob/main/AboutMe.md)
