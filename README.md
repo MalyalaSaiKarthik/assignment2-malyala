@@ -22,3 +22,13 @@ There are 8 ways to get from Paris Orly Airport (ORY) to The Louvre by tram, tra
 * Statue Equestre de Louis XIV
 
 [AboutMe](https://github.com/MalyalaSaiKarthik/assignment2-malyala/blob/main/AboutMe.md)
+
+---
+## The US is home to some of the most spectacular scenery in the world and some of the most recognizable icons on the planet. 
+Top attractions in the United States are bucket list destinations, drawing visitors from around the world.
+|City|Location|Time spend|
+|---|---|---:|
+|Arizona|Grand Canyon|1h|
+|New York|Niagara Falls|1h2m|
+|New York|Statue of Liberty|30m|
+|Orlando|Walt Disney World Resort|3h5m|
