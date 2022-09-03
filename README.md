@@ -32,3 +32,23 @@ Top attractions in the United States are bucket list destinations, drawing visit
 |New York|Niagara Falls|1h2m|
 |New York|Statue of Liberty|30m|
 |Orlando|Walt Disney World Resort|3h5m|
+
+---
+## Code Fencing
+This is a collection of simple SVG shapes used as patterns. This list may grow over time but the idea is less to have a comprehensive collection than it is to have the syntax handy as a starting point for creating new and exciting patterns.
+```
+<svg width="100%" height="100%">
+    <mask maskUnits="userSpaceOnUse" id="fade">
+        <linearGradient id="gradient" x1="0" y1="0" x2="0" y2="100%">
+            <stop offset="0" style="stop-color: #FFFFFF"></stop>
+            <stop offset="1" style="stop-color: #000000"></stop>
+        </linearGradient>
+        <rect fill="url(#gradient)" width="100%" height="100%"></rect>
+    </mask>
+    <pattern id="pattern-circles" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+        <circle mask="url(#fade)" cx="20" cy="20" r="20"></circle>
+    </pattern>
+    <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-circles)"></rect>
+</svg>
+```
+"Snippet from css-tricks"<https://css-tricks.com/snippets/svg/svg-patterns/>
