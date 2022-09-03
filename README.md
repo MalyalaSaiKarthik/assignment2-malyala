@@ -35,6 +35,29 @@ Top attractions in the United States are bucket list destinations, drawing visit
 
 ---
 ## Code Fencing
+```
+SVG use tag outputting SVG differently
+<div>
+    <p>Using the entire SVG code within the HTML</p>
+    <svg width="24" height="25" viewBox="0 0 24 25" fill="none"   xmlns="http://www.w3.org/2000/svg">
+        <path d="M5 9.00146L11.4697 15.4711C11.7626 15.764 12.2374 15.764 12.5303 15.4711L19 9.00146" stroke="#1E0564" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <svg style="display:none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <symbol id="chevron" viewBox="0 0 24 24">
+            <title>Chevron</title>
+            <desc>Chevron icon</desc>
+            <path d="M5 9.00146L11.4697 15.4711C11.7626 15.764 12.2374 15.764 12.5303 15.4711L19 9.00146" stroke="#1E0564" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </symbol>
+    </svg>
+    <p>Referencing SVG using &lt;use href=""&gt; tag</p>
+    <svg class="useSvg">
+        <use href="#chevron" />
+    </svg>
+</div>
+```
+<https://stackoverflow.com/questions/73588984/svg-use-tag-outputting-svg-differently>
+
+
 This is a collection of simple SVG shapes used as patterns. This list may grow over time but the idea is less to have a comprehensive collection than it is to have the syntax handy as a starting point for creating new and exciting patterns.
 ```
 <svg width="100%" height="100%">
@@ -51,4 +74,4 @@ This is a collection of simple SVG shapes used as patterns. This list may grow o
     <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-circles)"></rect>
 </svg>
 ```
-"Snippet from css-tricks"<https://css-tricks.com/snippets/svg/svg-patterns/>
+Snippet from css-tricks <https://css-tricks.com/snippets/svg/svg-patterns/>
